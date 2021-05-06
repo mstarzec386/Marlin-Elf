@@ -55,7 +55,8 @@
 //
 #define X_STOP_PIN                          PA15
 #define Y_STOP_PIN                          PA12
-#define Z_MIN_PIN                           PA11
+// #define Z_MIN_PIN                           PA11
+#define Z_MIN_PIN                           PE6
 #define Z_MAX_PIN                           PC4
 
 //
